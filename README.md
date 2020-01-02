@@ -1,5 +1,5 @@
 # JDBC-bookstore
-An JDBC app for bookstore
+An JDBC app for bookstore called York River Bookseller's Database (YRB).
  This java file demostrate a bookstore app using jdbc.
  The program starts by finding a customer, that is, it looks for a customer to see if the customer with a given id exists.
 If the customer does not exist, the program displays an error message and requests the customer id again.
